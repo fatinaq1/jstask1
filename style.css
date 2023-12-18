@@ -1,0 +1,15 @@
+.demo{
+    background-color: whitesmoke;
+    color:rgb(19, 18, 18);
+    box-shadow: 10px 10px 10px whitesmoke;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.vip{
+    background-color: azure;
+    color: #eee;
+    box-shadow: 10px 10px 10px azure;
+    padding: 10px;
+
+}
